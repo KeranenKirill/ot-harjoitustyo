@@ -1,0 +1,84 @@
+commit 74827132dd6bfe553b8a76da31ccd3df57a8e7cb
+Author: kirillke <kirill.keranen@helsinki.fi>
+Date:   Tue Nov 8 17:19:44 2022 +0200
+
+    file 3 korjattu, ei ihan onnistunut ohjeistuksen mukaan
+
+ tiedostoja/file3 | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit de216060dcf188ad463b501805d51f9033524794
+Author: kirillke <kirill.keranen@helsinki.fi>
+Date:   Tue Nov 8 17:17:43 2022 +0200
+
+    suoritettu liuta ohjeita tehtavassa
+
+ tiedostoja/file22 | 0
+ tiedostoja/file3  | 1 +
+ 2 files changed, 1 insertion(+)
+
+commit 7aceb59291601d6a0bb4e198c18172b7590c8247
+Author: kirillke <kirill.keranen@helsinki.fi>
+Date:   Tue Nov 8 16:38:35 2022 +0200
+
+    muutoksia tiedostoissa eka.txt ja kolmas.txt
+
+ tiedosto.txt => eka.txt | 4 +---
+ kolmas.txt              | 3 ++-
+ 2 files changed, 3 insertions(+), 4 deletions(-)
+
+commit c4de4b1b50c7ca8adb2f25e19fc1df2977ecff51
+Author: kirillke <kirill.keranen@helsinki.fi>
+Date:   Tue Nov 8 16:31:04 2022 +0200
+
+    tiedosto.txt uudelleennimetty -> eka.txt
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit a5e831ade53d023f04014ac952c5c427f05af252
+Author: kirillke <kirill.keranen@helsinki.fi>
+Date:   Tue Nov 8 16:13:10 2022 +0200
+
+    testaus lisattiin tekstia tiedosto.txt:iin
+
+ tiedosto.txt | 20 ++++++++++++++++++++
+ 1 file changed, 20 insertions(+)
+
+commit db25db55eade1aa22d1a1ba88571ae64ace4c620
+Author: kirillke <kirill.keranen@helsinki.fi>
+Date:   Mon Nov 7 21:37:28 2022 +0200
+
+    stuff ja stuff1.txt lisattu
+
+ stuff/stuff1.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 2fdc21e1346e878b47205e53e146267efeef97e1
+Author: kirillke <kirill.keranen@helsinki.fi>
+Date:   Mon Nov 7 21:34:31 2022 +0200
+
+    kolmas.txt ja toinen.txt muokattu ja commitattu
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 01e31e2f0df51f80a74e97069d9f8cead886e719
+Author: kirillke <kirill.keranen@helsinki.fi>
+Date:   Mon Nov 7 21:14:06 2022 +0200
+
+    muutos ja lisays
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 7e379e089f15a7e3552fcf75f539dc51bcb90f8a
+Author: kirillke <kirill.keranen@helsinki.fi>
+Date:   Mon Nov 7 20:55:22 2022 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
