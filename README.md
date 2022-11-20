@@ -9,6 +9,8 @@ ___
 ## **VIIKKO 2**
 ### [Harjoitustyön vaatimusmäärittely](https://github.com/KeranenKirill/ot-harjoitustyo/tree/master/python_budget_app/dokumentaatio)
 
+### [VK2 tehtävät](https://github.com/KeranenKirill/ot-harjoitustyo/tree/master/laskarit/viikko2)
+
 
 ___
 ## **VIIKKO 1**
