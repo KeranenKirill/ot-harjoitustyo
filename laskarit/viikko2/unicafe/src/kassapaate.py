@@ -41,7 +41,7 @@ class Kassapaate:
             kortti.lataa_rahaa(summa)
             self.kassassa_rahaa += summa
         else:
-            return
+            return False
 
     def __str__(self):
         kassa_euroissa = round(self.kassassa_rahaa / 100, 2)
