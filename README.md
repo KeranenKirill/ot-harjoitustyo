@@ -1,6 +1,7 @@
 
 # **OHJELMISTOTEKNIIKKA, HARJOITUSTYÖ**
 
+# **KURSSIN TOTEUTUS KESKEYTETTY**
 ___
 ## **README** 
 ### [Työaikakirjanpito](https://github.com/KeranenKirill/ot-harjoitustyo/tree/master/python_budget_app/dokumentaatio/tyoaikakirjanpito)
